@@ -5,8 +5,9 @@
    <tag></tag>
    <UUID>9988d9de-b14f-4d7f-b0a5-f25d40de7a41</UUID>
    <createdVersion>9.3.1</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedVersion>9.3.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <projectFileLocation>C:\Users\USER\git\WebShop-BDD-Cucumber-Katalon-Project\WebShop-BDD-Cucumber-Katalon-Project.prj</projectFileLocation>
    <sourceContent>
